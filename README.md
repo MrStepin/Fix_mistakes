@@ -1,2 +1,2 @@
 # PythonQA
-For education
+Fixed mistakes in code
